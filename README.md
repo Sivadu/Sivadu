@@ -10,6 +10,8 @@ Kanavugal urangaathe”* 🎶
 
 Hi there! I'm **M Sivananthini**, a passionate Computer Science graduate on the path to pursuing my Master's degree. I specialize in **frontend and web development**, and I'm currently working on two exciting projects — a **Myntra clone** built with React Native and a full-featured **E-commerce website**.
 
+I'm a **self-learner** who quickly adapts to new technologies and concepts. I thrive on challenges, constantly strive to keep myself updated with the latest trends in tech, and always aim to grow as a developer.
+
 I'm driven by creativity, code, and a constant curiosity to explore how technology can bring ideas to life.
 
 ---
