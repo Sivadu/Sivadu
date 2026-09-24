@@ -33,7 +33,15 @@ University of Kerala
 **2021 – 2024**
 
 ---
+---
 
+## 🌐 My Portfolio
+
+Explore my personal portfolio to learn more about my skills, projects, education, and journey in Data Science.
+
+🔗 **[Visit My Portfolio](https://sivadu.github.io/Portfolio/)**
+
+---
 ## 🛠️ Tech Stack
 
 ### 💻 Programming
