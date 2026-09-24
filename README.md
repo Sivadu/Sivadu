@@ -10,7 +10,7 @@
 
 Hi! I'm **M Sivananthini**, a **Computer Science graduate** currently pursuing an **MSc in Data Science with Business Analytics**.
 
-My journey started with **web development**, where I worked with technologies such as JavaScript, React, Node.js, Express.js, MongoDB and Bootstrap. I am now expanding my skills into **Python, data analysis, data visualization, SQL, machine learning and business analytics**.
+My journey started with **web development**, where I worked with technologies such as **JavaScript, React, Node.js, Express.js, MongoDB and Bootstrap**. I am now expanding my skills into **Python, data analysis, data visualization, SQL, machine learning and business analytics**.
 
 I enjoy learning new technologies, building practical projects, and exploring how data can be used to understand problems and support better decisions.
 
@@ -21,11 +21,13 @@ I'm a self-learner who enjoys taking on new challenges and continuously improvin
 ## 🎓 Education
 
 ### MSc Data Science with Business Analytics
+
 **Rathinam Art and Science College**  
 Rathinam Global Deemed to be University  
 **2026 – 2028**
 
 ### B.Sc Computer Science
+
 **CHMM College for Advanced Studies**  
 University of Kerala  
 **2021 – 2024**
@@ -34,22 +36,14 @@ University of Kerala
 
 ## 🛠️ Tech Stack
 
-### Programming & Data
+### 💻 Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Data Science
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Web Development
+### 🌐 Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,7 +53,7 @@ University of Kerala
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Tools
+### 🧰 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -70,18 +64,28 @@ University of Kerala
 
 ---
 
-## 📊 Data Science Journey
+## 📊 Currently Upskilling in Data Science
 
-I'm currently developing my skills in:
+I am currently building my foundation in the **Python Data Science ecosystem**.
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### My Current Learning Focus
 
 - 🐍 Python Programming
 - 🧹 Data Cleaning & Preprocessing
-- 🐼 Pandas & NumPy
-- 📊 Data Visualization
+- 🔢 NumPy
+- 🐼 Pandas
+- 📊 Matplotlib & Seaborn
 - 🗄️ SQL & Database Management
-- 🤖 Machine Learning
-- 📈 Business Analytics
+- 📈 Data Analysis
+- 💼 Business Analytics
 - 📉 Statistical Analysis
+- 🤖 Machine Learning
 - 💡 Data-driven Problem Solving
 
 ---
@@ -161,11 +165,15 @@ A simple responsive login-page project created to practice frontend development 
 ```text
 Python
    ↓
-Data Analysis
+NumPy & Pandas
    ↓
-Data Visualization
+Data Cleaning & Analysis
+   ↓
+Matplotlib & Seaborn
    ↓
 SQL & Business Analytics
+   ↓
+Statistics
    ↓
 Machine Learning
    ↓
