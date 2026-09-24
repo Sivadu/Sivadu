@@ -1,6 +1,8 @@
 # ✨ M Sivananthini
 
-> *Turning data into insights, ideas into solutions.* 📊
+> *Mastering the system is the first step toward creating something extraordinary*  
+> *“Kangal uranginaalum  
+> Kanavugal urangaathe”* 🎶
 
 ---
 
